@@ -73,3 +73,6 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+1. BasicSetup/Binaries/
+1. BasicSetup/Saved/
+1. BasicSetup/Intermediate/
