@@ -76,3 +76,6 @@ DerivedDataCache/*
 1. BasicSetup/Binaries/
 1. BasicSetup/Saved/
 1. BasicSetup/Intermediate/
+BotMovement/Saved/
+BotMovement/Intermediate/
+BotMovement/Binaries/
